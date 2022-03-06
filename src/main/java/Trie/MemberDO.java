@@ -7,5 +7,6 @@ public class MemberDO {
 
     private String name;
 
+    // age
     private String age;
 }
