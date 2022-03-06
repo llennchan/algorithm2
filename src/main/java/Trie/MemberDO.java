@@ -6,4 +6,6 @@ package Trie;
 public class MemberDO {
 
     private String name;
+
+    private String age;
 }
