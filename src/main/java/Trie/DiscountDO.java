@@ -6,4 +6,6 @@ package Trie;
 public class DiscountDO {
 
     private String action;
+
+    private String toolDict;
 }
