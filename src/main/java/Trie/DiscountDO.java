@@ -7,6 +7,7 @@ import java.math.BigDecimal;
  */
 public class DiscountDO {
 
+    // action
     private String action;
 
     // toolDict
